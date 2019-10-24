@@ -1,0 +1,15 @@
+.venv
+
+.DS_Store
+
+#Python compiles some files to run and they are garbage
+
+*.pyc
+
+#
+analysis
+
+data
+
+
+
