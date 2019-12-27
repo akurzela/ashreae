@@ -8,8 +8,8 @@
 
 #
 analysis/*
-!analysis/Analysis_ashrae
-!analysis/Ashrae_prediction
+!analysis/Analysis_ashrae.ipynb
+!analysis/Ashrae_prediction.ipynb
 
 
 data
