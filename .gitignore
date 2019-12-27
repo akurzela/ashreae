@@ -7,7 +7,10 @@
 *.pyc
 
 #
-analysis
+analysis/*
+!analysis/Analysis_ashrae
+!analysis/Ashrae_prediction
+
 
 data
 
